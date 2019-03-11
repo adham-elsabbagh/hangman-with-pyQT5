@@ -12,6 +12,7 @@ class HangmanGame(QMainWindow):
         self.__lbl_list = []
         self.init_game()
         self.show()
+#adham
 
     def init_game(self):
         # available choices
