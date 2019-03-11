@@ -10,7 +10,7 @@ The player has 5 turns to guess the word.
 
 to install this game please type this commands to your terminal: 
 
-#installation  
+installation  
 
 pip3 install --user pyqt5  
 sudo apt-get install python3-pyqt5  
